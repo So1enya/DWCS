@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# DWCS
-taca
-=======
 # Ejercicios de Desarrollo Web en Contorno Servidor
 ## DAW - IES Armando Cotarelo Valledor - Curso 25/26
 # [Unidad 1](UD1)
@@ -83,4 +79,3 @@ taca
 ### [Ejemplos](UD4/Ejemplos)
 
 ### [Ejercicios](UD4/Ejercicios)
->>>>>>> dde8bb3 (cosa)
